@@ -11,14 +11,14 @@ relative_permalinks: true
 # Setup
 title:               "Engineering - St Columba's Free Church"
 tagline:             ''
-description:         "St Columba's Engineering Blog"
+description:         ''
 url:                 http://stcolumbas.github.io
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              "St Columba's Free Church"
+  name:              "St Columba's"
   url:               https://twitter.com/stcsfreechurch
   email:             network.admin@stcolumbas.freechurch.org
 
