@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               "Engineering - St Columba's Free Church"
+tagline:             ''
+description:         "St Columba's Engineering Blog"
+url:                 http://stcolumbas.github.io
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              "St Columba's Free Church"
+  url:               https://twitter.com/stcsfreechurch
+  email:             network.admin@stcolumbas.freechurch.org
+
+# Custom vars
+version:             1.0.0
