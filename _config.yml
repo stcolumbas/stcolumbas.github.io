@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               "Engineering - St Columba's Free Church"
 tagline:             ''
 description:         ''
-url:                 http://stcolumbas.github.io
+url:                 http://eng.stcsfc.org
 baseurl:             /
 paginate:            10
 
