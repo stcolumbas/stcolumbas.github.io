@@ -90,7 +90,7 @@ Whilst the Lindy VGA Converters have served us well, we needed to replace them w
 
 For ultimate flexibility, a HDMI matrix of at least 4 in and 8 out would have been ideal. Unfortunately they're very expensive. For example the Kramer VS-88H is retailing for around £2,000 - a little out of range. We had to compromise on the flexibility in order to build a cheaper solution so we're using a mix of a HDMI switch and a much smaller HDMI matrix as well as a few HDMI splitters. Given our main use cases it was possible to group the screens into two groups, those inside the Sanctuary and those outside the Sanctuary. With these two groups we then only require a 2 in 2 out HDMI matrix which is under £100. Below is how the new setup is connected.
 
-[!HDMI Setup](/public/images/2015-04-12-video-distribution-setup.png)
+![HDMI Setup](/public/images/2015-04-12-video-distribution-setup.png)
 
 # Conclusion
 
