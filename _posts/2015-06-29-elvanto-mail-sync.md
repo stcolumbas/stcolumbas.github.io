@@ -12,7 +12,7 @@ We are currently in a phased roll out of [Elvanto](https://www.elvanto.com/) (a 
 
 So we built one: [Elvanto Mail Sync](https://github.com/monty5811/elvanto_mail_sync). 
 
-Elvanto Mail Sync is a [Django](https://www.djangoproject.com/) app that pulls in all your [Elvanto](https://www.elvanto.com/) groups, then pushes the emails to your mailing lists.
+Elvanto Mail Sync is a [Django](https://www.djangoproject.com/) app that pulls in all your [Elvanto](https://www.elvanto.com/r_Y7HXKNE6) groups, then pushes the emails to your mailing lists.
 
 ![Overview](/public/images/2015-06-29-elvanto-overview.png)
 
